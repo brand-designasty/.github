@@ -1,6 +1,5 @@
-## aint got brand yet?
-
-<<div align="center">
+## brandabout?
+<div align="center">
 
 <img src="https://img.shields.io/badge/brand-designasty-1b1a16?style=for-the-badge&labelColor=1b1a16&color=cc9a52" alt="brand designasty" />
 
