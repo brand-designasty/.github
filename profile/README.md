@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/brand-designasty-1b1a16?style=for-the-badge&labelColor=1b1a16&color=cc9a52" alt="brand designasty" />
 
-### independent studio · four brands · one system
+### independent studio · six sites · one system
 
 </div>
 
@@ -22,13 +22,34 @@ Reads spectrograms, shapes sound into visual identity.
 </td>
 <td width="50%" valign="top">
 
+### 🎵 brandcultura — agency
+**Music & art division.**
+Shape Your Sound — the creative branch inside brandcultura.
+
+![status](https://img.shields.io/badge/status-live-2f7d5c?style=flat-square)
+`brandcultura-agency` · brandcultura.agency
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 🖋️ imtryingtodesign
-**Independent design practice.**
+**The main design practice.**
 Systems, portfolios, and brand work for people who make things.
-<sub>+ imtrt.design — portfolio split, forming</sub>
 
 ![status](https://img.shields.io/badge/status-live-2f7d5c?style=flat-square)
 `imtryingtodesign-web` · imtryingtodesign.com
+
+</td>
+<td width="50%" valign="top">
+
+### ✏️ imtrt — design
+**Not yet built.**
+A separate site from imtryingtodesign, still being defined.
+
+![status](https://img.shields.io/badge/status-forming-6b6f80?style=flat-square)
+`imtrt-design` · imtrt.design
 
 </td>
 </tr>
@@ -60,7 +81,7 @@ The studio's own product, not client work.
 
 <div align="center">
 
-**`brand-system`** — shared tokens & components underneath all four
+**`brand-system`** — shared tokens & components underneath all six
 &nbsp;·&nbsp;
 **`archive`** — retired and experimental work
 
