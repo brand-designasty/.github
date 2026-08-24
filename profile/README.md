@@ -13,8 +13,8 @@
 <td width="50%" valign="top">
 
 ### 🎧 brandcultura
-**Agency for artists & labels.**
-Reads spectrograms, shapes sound into visual identity.
+**The main branding studio, research and provide your identity.**
+Your soul is uniq, we'll find a personal form that fits into yours visual identity.
 
 ![status](https://img.shields.io/badge/status-in_review-b0502e?style=flat-square)
 `brandcultura-web` · brandcultura.com
